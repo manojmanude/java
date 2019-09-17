@@ -1,1 +1,2 @@
 this is the first file in the java repository
+now i trying to add the new file in the repository 
